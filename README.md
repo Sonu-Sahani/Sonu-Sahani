@@ -627,23 +627,4 @@ Interests:
 </p>
 
 
-📂 README
-│
-├── Hero Banner
-├── Animated Typing
-├── About Me
-├── Skills
-├── Experience Timeline
-├── Featured Projects (beautiful cards)
-├── Architecture Diagrams
-├── GitHub Stats
-├── LeetCode Stats
-├── GitHub Trophy
-├── Activity Graph
-├── Contribution Snake
-├── Tech Icons
-├── Open Source
-├── Achievements
-├── Certifications
-├── Connect
-└── Animated Footer
+
