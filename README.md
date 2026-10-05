@@ -480,7 +480,7 @@ Node.js
 
 </p>
 
-> **Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.**
+> `**Replace ``YOUR_LEETCODE_USERNAME`` with your actual LeetCode username.**`
 
 ---
 
