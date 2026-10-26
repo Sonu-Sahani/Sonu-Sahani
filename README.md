@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=Sonu%20Sahani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=Sonu%20Sahani&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sonu Sahani</h1>
@@ -38,20 +38,57 @@ Passionate about building scalable full-stack applications with the MERN stack.
   <a href="https://leetcode.com/sonusahani">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/profile/sonuusaha26sr?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,firebase,vercel&perline=8" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Database</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td align="center"><strong>Auth</strong></td>
+    <td align="center"><strong>Deployment</strong></td>
+    <td align="center"><strong>Others</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,6 +100,13 @@ Passionate about building scalable full-stack applications with the MERN stack.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sonu-Sahani&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💻 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sonusahani?theme=dark&font=Karma&ext=activity" />
 </p>
 
 ---
